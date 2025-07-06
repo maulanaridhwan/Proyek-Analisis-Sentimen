@@ -1,0 +1,8 @@
+google-play-scraper
+pandas
+nltk
+matplotlib
+wordcloud
+sastrawi
+scikit-learn
+joblib
